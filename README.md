@@ -1,2 +1,2 @@
-# Nutri-
+# Nutri+
 Nutricional recomendation using AI 
